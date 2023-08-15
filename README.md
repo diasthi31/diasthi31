@@ -24,3 +24,4 @@ Estudante de programação
 ### Estatísticas
 
 ![Thiago's GitHub stats](https://github-readme-stats.vercel.app/api?username=diasthi31&show_icons=true&theme=dark)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=diasthi31)](https://github.com/diasthi31/github-readme-stats)
