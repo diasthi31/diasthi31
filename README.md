@@ -3,9 +3,6 @@ Olá, eu sou o Thiago Dias! https://user-images.githubusercontent.com/18350557/1
 
 Estudante de programação
 --------------------
-
-* 🧠  Estou estudando Front-End - HTML | CSS | JavaScript
-
 ### Contato
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/diasthi31/) 
