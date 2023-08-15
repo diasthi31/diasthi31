@@ -1,4 +1,4 @@
-Olá![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)Meu nome é Thiago Dias
+Olá, eu sou o Thiago Dias! [](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 ===================================================================================================================================
 
 Estudante de programação
@@ -7,6 +7,8 @@ Estudante de programação
 * 🧠  Estou estudando Front-End - HTML | CSS | JavaScript
 
 ### Skills
+
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]
 
 
 <p align="left">
