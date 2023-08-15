@@ -1,13 +1,10 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Thiago Dias
+Olá![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)Meu nome é Thiago Dias
 ===================================================================================================================================
 
 Full-Stack Developer
 --------------------
 
-* 🌍  I'm based in Brasil
-* 🖥️  See my portfolio at [Linkedin](http://https://www.linkedin.com/in/diasthi31/)
-* ✉️  You can contact me at [diasthi31@gmail.com](mailto:diasthi31@gmail.com)
-* 🧠  I'm learning Front-End - HTML | CSS | JavaScript
+* 🧠  Estou estudando Front-End - HTML | CSS | JavaScript
 
 ### Skills
 
