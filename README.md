@@ -27,4 +27,4 @@ Estudante de TI na Faeterj - Petrópolis, dedico a maior parte do meu tempo estu
 ### Estatísticas
 
 ![Thiago's GitHub stats](https://github-readme-stats.vercel.app/api?username=diasthi31&show_icons=true&theme=dark)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=diasthi31&theme=dark)](https://github.com/diasthi31/github-readme-stats.
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=diasthi31&theme=dark)](https://github.com/diasthi31/github-readme-stats)
