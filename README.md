@@ -4,7 +4,7 @@ Olá, eu sou o Thiago Dias! ![](https://user-images.githubusercontent.com/183505
 Desenvolvedor e estudante de programação
 --------------------
 
-Estudante de TI na Faeterj - Petrópolis, dedico a maior parte do meu tempo estudando programação, com foco em aprimorar meus conhecimentos e habilidades como desenvolvedor.
+Dedico a maior parte do meu tempo estudando programação, com foco em aprimorar meus conhecimentos e habilidades como desenvolvedor.
 
 ### Contato
 
