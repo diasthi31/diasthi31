@@ -1,15 +1,15 @@
 Olá, eu sou o Thiago Dias! ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 ===================================================================================================================================
 
-Estudante de programação
+Desenvolvedor e estudante de programação
 --------------------
 
-Estudante de TI na Faeterj - Petrópolis e Residente de Software no Serratec, dedico a maior parte do meu tempo estudando programação, com foco em entrar no mercado como desenvolvedor.
+Estudante de TI na Faeterj - Petrópolis, dedico a maior parte do meu tempo estudando programação, com foco em aprimorar meus conhecimentos e habilidades como desenvolvedor.
 
 ### Contato
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/diasthi31/) 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](diasthi31@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:diasthi31@gmail.com)
 
 ### Habilidades
 
