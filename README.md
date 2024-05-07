@@ -1,30 +1,30 @@
-Olá, eu sou o Thiago Dias! ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
-===================================================================================================================================
+## Olá, mundo! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+### O meu nome é Thiago Dias, seja bem-vindo ao meu GitHub. <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="200px" max-width="200px" width="200px" align="right">
 
-Desenvolvedor e estudante de programação
---------------------
+- 🔰 Sou de Petrópolis, RJ, Brasil;
+- ⚡ Apaixonado por Tecnologia, Música e Jogos;
+- 🧠 Estudante de Tecnologia da Informação e Comunicação na FAETERJ - Petrópolis;
+- 🏦 Atualmente trabalho como Estagiário de Desenvolvimento Back-End, na Werner S/A.
 
-Dedico a maior parte do meu tempo estudando programação, com foco em aprimorar meus conhecimentos e habilidades como desenvolvedor.
+## Minhas Habilidades
 
-### Contato
+**Desenvolvimento**
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/diasthi31/) 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:diasthi31@gmail.com)
+[![My Skills](https://skillicons.dev/icons?i=java,spring,maven,c,cpp,bash,html,css,js)](https://skillicons.dev)
 
-### Habilidades
+**Banco de Dados**
 
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Shell](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
+[![My Skills](https://skillicons.dev/icons?i=mysql,postgres)](https://skillicons.dev)
 
-### Estou estudando
+**Ferramentas**
 
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+[![My Skills](https://skillicons.dev/icons?i=git,github,linux,postman,idea,eclipse,vscode,figma)](https://skillicons.dev)
 
-### Estatísticas
+<br/>
 
-![Thiago's GitHub stats](https://github-readme-stats.vercel.app/api?username=diasthi31&show_icons=true&theme=dark)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=diasthi31&theme=dark)](https://github.com/diasthi31/github-readme-stats)
+[<img height="180px" alt="GitHub Statistics" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diasthi31&layout=compact&langs_count=7&theme=dark"/>](https://github.com/)
+[<img height="180px" alt="GitHub Statistics" src="https://github-readme-stats.vercel.app/api/?username=diasthi31&show_icons=true&include_all_commits=true&theme=dark"/>](https://github.com/)
+
+#### Como entrar em contato comigo:
+[<img alt="Linkedin" src="https://img.shields.io/badge/-linkedin-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/diasthi31)
+[<img alt="GMail" src="https://img.shields.io/badge/mail-FFFFFF?style=for-the-badge&logo=gmail"/>](mailto:diasthi31@gmail.com)
